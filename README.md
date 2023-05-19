@@ -4,7 +4,7 @@ A collection of 3D models made on Blender.
 
 &nbsp;
 
-Notes:
+Notes:  
 STL & Blender files are provided for each 3D model.
 
 &nbsp;
