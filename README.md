@@ -21,7 +21,7 @@ STL & Blender files are provided for each 3D model.
 
 | Fan Leg 120x60x36mm                                      | Fan Leg 120x60x36mm                                      |
 |----------------------------------------------------------|----------------------------------------------------------|
-| ![](Resources/03-fan-leg-120x60x36mm-1.jpg)              | ![](Resources/03-fan-leg-120x60x36mm-2.jpg)              |
+| ![](Resources/03-fan-leg-120x60x38mm-1.jpg)              | ![](Resources/03-fan-leg-120x60x38mm-2.jpg)              |
 
 See 'Rescources' sub-folder for more pictures & videos of the project.
 
