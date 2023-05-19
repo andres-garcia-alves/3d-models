@@ -33,5 +33,5 @@ v1.0 (2023.05.19) - Initial release.
 
 &nbsp;
 
-This source code is licensed under Public Domain license.
+This source code is licensed under Public Domain license.  
 Please send me your feedback about this project: andres.garcia.alves@gmail.com
