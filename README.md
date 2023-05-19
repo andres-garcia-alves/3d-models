@@ -13,7 +13,7 @@ STL & Blender files are provided for each 3D model.
 
 | Case Custom 135x80x33mm                                  | Case Custom 135x80x33mm                                  |
 |----------------------------------------------------------|----------------------------------------------------------|
-| ![](Resources/01-case-custom-135x80x33mm-1.jpg)          | ![](01-case-custom-135x80x33mm-2.jpg)                    |
+| ![](Resources/01-case-custom-135x80x33mm-1.jpg)          | ![](Resources/01-case-custom-135x80x33mm-2.jpg)          |
 
 | Case Double-Switch 220v 50x28x40mm                       | Case Double-Switch 220v 50x28x40mm                       |
 |----------------------------------------------------------|----------------------------------------------------------|
