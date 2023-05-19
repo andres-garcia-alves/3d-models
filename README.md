@@ -1,10 +1,6 @@
 # 3D Models
 
-A collection of 3D models made on Blender.
-
-&nbsp;
-
-Notes:  
+A collection of 3D models made on Blender.    
 STL & Blender files are provided for each 3D model.
 
 &nbsp;
