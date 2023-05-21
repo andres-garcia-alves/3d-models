@@ -7,17 +7,21 @@ STL & Blender files are provided for each 3D model.
 
 ### Screenshots
 
+| Case Generic 70x70x25mm                                  | Case Generic 70x70x25mm                                  |
+|----------------------------------------------------------|----------------------------------------------------------|
+| ![](Resources/case-generic-70x70x25mm-1.jpg)             | ![](Resources/case-generic-70x70x25mm-2.jpg)             |
+
 | Case Custom 135x80x33mm                                  | Case Custom 135x80x33mm                                  |
 |----------------------------------------------------------|----------------------------------------------------------|
-| ![](Resources/01-case-custom-135x80x33mm-1.jpg)          | ![](Resources/01-case-custom-135x80x33mm-2.jpg)          |
-
+| ![](Resources/case-generic-135x80x33mm-1.jpg)            | ![](Resources/case-generic-135x80x33mm-2.jpg)            |
+  
 | Case Double-Switch 220v 50x28x40mm                       | Case Double-Switch 220v 50x28x40mm                       |
 |----------------------------------------------------------|----------------------------------------------------------|
-| ![](Resources/02-case-double-switch-50x28x40mm-1.jpg)    | ![](Resources/02-case-double-switch-50x28x40mm-2.jpg)    |
+| ![](Resources/case-double-switch-50x28x40mm-1.jpg)       | ![](Resources/case-double-switch-50x28x40mm-2.jpg)       |
 
 | Fan Leg 120x60x36mm                                      | Fan Leg 120x60x36mm                                      |
 |----------------------------------------------------------|----------------------------------------------------------|
-| ![](Resources/03-fan-leg-120x60x38mm-1.jpg)              | ![](Resources/03-fan-leg-120x60x38mm-2.jpg)              |
+| ![](Resources/fan-leg-120x60x38mm-1.jpg)                 | ![](Resources/fan-leg-120x60x38mm-2.jpg)                 |
 
 See 'Rescources' sub-folder for more pictures & videos of the project.
 
