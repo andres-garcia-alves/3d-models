@@ -17,7 +17,7 @@ STL & Blender files are provided for each 3D model.
   
 | Case Double-Switch 220v 50x28x40mm                       | Case Double-Switch 220v 50x28x40mm                       |
 |----------------------------------------------------------|----------------------------------------------------------|
-| ![](Resources/case-double-switch-50x28x40mm-1.jpg)       | ![](Resources/case-double-switch-50x28x40mm-2.jpg)       |
+| ![](Resources/case-double-switch-220v-50x28x40mm-1.jpg)  | ![](Resources/case-double-switch-220v-50x28x40mm-2.jpg)  |
 
 | Fan Leg 120x60x36mm                                      | Fan Leg 120x60x36mm                                      |
 |----------------------------------------------------------|----------------------------------------------------------|
