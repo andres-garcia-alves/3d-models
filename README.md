@@ -7,7 +7,7 @@ STL & Blender files are provided for each 3D model.
 
 ### Screenshots
 
-| Case Bateries 18650 + TP4056 129x80x28mm                 | Case Bateries 18650 + TP4056 129x80x28mm                 |
+| Case Bateries-18650 & TP4056 129x80x28mm                 | Case Bateries-18650 & TP4056 129x80x28mm                 |
 |----------------------------------------------------------|----------------------------------------------------------|
 | ![](Resources/case-bateries-18650-129x80x28mm-1.jpg)     | ![](Resources/case-bateries-18650-129x80x28mm-2.jpg)     |
 
