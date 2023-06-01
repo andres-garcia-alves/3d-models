@@ -27,6 +27,10 @@ STL & Blender files are provided for each 3D model.
 |----------------------------------------------------------|----------------------------------------------------------|
 | ![](Resources/fan-leg-120x60x38mm-1.jpg)                 | ![](Resources/fan-leg-120x60x38mm-2.jpg)                 |
 
+| Iron Knob 46x46x13mm                                     | Iron Knob 46x46x13mm                                     |
+|----------------------------------------------------------|----------------------------------------------------------|
+| ![](Resources/iron-knob-46x46x13mm-1.jpg)                | ![](Resources/iron-knob-46x46x13mm-2.jpg)                |
+
 See 'Rescources' sub-folder for more pictures & videos of the project.
 
 &nbsp;
@@ -36,6 +40,7 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 v1.0 (2023.05.19) - Initial release.  
 v1.1 (2023.05.21) - Adding model 'case-generic-70x70x25mm'.  
 v1.2 (2023.05.27) - Adding model 'case-bateries-18650-129x80x28mm'.  
+v1.3 (2023.06.01) - Adding model 'iron-knob-46x46x13mm'.  
 
 &nbsp;
 
