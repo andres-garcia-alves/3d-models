@@ -7,9 +7,9 @@ STL & Blender files are provided for each 3D model.
 
 ### Screenshots
 
-| Case Bateries-18650 & TP4056 129x80x28mm                 | Case Bateries-18650 & TP4056 129x80x28mm                 |
+| Case 18650 Batteries & TP4056 129x80x28mm                | Case 18650 Batteries & TP4056 129x80x28mm                |
 |----------------------------------------------------------|----------------------------------------------------------|
-| ![](Resources/case-bateries-18650-129x80x28mm-1.jpg)     | ![](Resources/case-bateries-18650-129x80x28mm-2.jpg)     |
+| ![](Resources/case-batteries-18650-129x80x28mm-1.jpg)    | ![](Resources/case-batteries-18650-129x80x28mm-2.jpg)    |
 
 | Case Generic 70x70x25mm                                  | Case Generic 70x70x25mm                                  |
 |----------------------------------------------------------|----------------------------------------------------------|
@@ -26,6 +26,10 @@ STL & Blender files are provided for each 3D model.
 | Case Power Supply Unit 110x90x45mm                       | Case Power Supply Unit 110x90x45mm                       |
 |----------------------------------------------------------|----------------------------------------------------------|
 | ![](Resources/case-psu-110x90x45mm-1.jpg)                | ![](Resources/case-psu-110x90x45mm-2.jpg)                |
+
+| Holder 18650 Battery x1 76x23x17mm                       | Holder 18650 Battery Holder x1 76x23x17mm                |
+|----------------------------------------------------------|----------------------------------------------------------|
+| ![](Resources/holder-battery-18650-76x23x17mm-1.jpg)     | ![](Resources/holder-battery-18650-76x23x17mm-2.jpg)     |
 
 | Fan Leg 120x60x36mm                                      | Fan Leg 120x60x36mm                                      |
 |----------------------------------------------------------|----------------------------------------------------------|
@@ -46,6 +50,7 @@ v1.1 (2023.05.21) - Adding model 'case-generic-70x70x25mm'.
 v1.2 (2023.05.27) - Adding model 'case-bateries-18650-129x80x28mm'.  
 v1.3 (2023.06.01) - Adding model 'iron-knob-46x46x13mm'.  
 v1.4 (2023.06.28) - Adding model 'case-psu-110x90x45mm'.
+v1.5 (2023.07.14) - Adding model 'holder-battery-18650-76x23x17mm'.
 
 &nbsp;
 
