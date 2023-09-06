@@ -54,8 +54,8 @@ v1.1 (2023.05.21) - Adding model 'case-generic-70x70x25mm'.
 v1.2 (2023.05.27) - Adding model 'case-bateries-18650-129x80x28mm'.  
 v1.3 (2023.06.01) - Adding model 'iron-knob-46x46x13mm'.  
 v1.4 (2023.06.28) - Adding model 'case-psu-110x90x45mm'.  
-v1.5 (2023.07.14) - Adding model 'holder-battery-18650-76x23x17mm'.
-v1.6 (2023.09.03) - Adding model 'keyboard-leg-20x26x3mm'.
+v1.5 (2023.07.14) - Adding model 'holder-battery-18650-76x23x17mm'.  
+v1.6 (2023.09.03) - Adding model 'keyboard-leg-20x26x3mm'.  
 
 &nbsp;
 
