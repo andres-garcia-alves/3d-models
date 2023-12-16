@@ -7,6 +7,10 @@ STL & Blender files are provided for each 3D model.
 
 ### Screenshots
 
+| Bolt Piece 99x18x12mm                                    | Bolt Piece 99x18x12mm                                    |
+|----------------------------------------------------------|----------------------------------------------------------|
+| ![](Resources/bolt-piece-99x18x12mm-1.jpg)               | ![](Resources/bolt-piece-99x18x12mm-2.jpg)               |
+
 | Case 18650 Batteries & TP4056 129x80x28mm                | Case 18650 Batteries & TP4056 129x80x28mm                |
 |----------------------------------------------------------|----------------------------------------------------------|
 | ![](Resources/case-batteries-18650-129x80x28mm-1.jpg)    | ![](Resources/case-batteries-18650-129x80x28mm-2.jpg)    |
@@ -56,6 +60,7 @@ v1.3 (2023.06.01) - Adding model 'iron-knob-46x46x13mm'.
 v1.4 (2023.06.28) - Adding model 'case-psu-110x90x45mm'.  
 v1.5 (2023.07.14) - Adding model 'holder-battery-18650-76x23x17mm'.  
 v1.6 (2023.09.03) - Adding model 'keyboard-leg-20x26x3mm'.  
+v1.7 (2023.12.16) - Adding model 'bolt-piece-99x18x12mm'.
 
 &nbsp;
 
