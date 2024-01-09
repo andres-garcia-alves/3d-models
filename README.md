@@ -19,10 +19,6 @@ STL & Blender files are provided for each 3D model.
 |------------------------------------------------------------------|------------------------------------------------------------------|
 | ![](Resources/bolt-piece-99x18x12mm-1.jpg)                       | ![](Resources/bolt-piece-99x18x12mm-2.jpg)                       |
 
-| Case Generic 70x70x25mm                                          | Case Generic 70x70x25mm                                          |
-|------------------------------------------------------------------|------------------------------------------------------------------|
-| ![](Resources/case-generic-70x70x25mm-1.jpg)                     | ![](Resources/case-generic-70x70x25mm-2.jpg)                     |
-
 | Case Custom 135x80x33mm                                          | Case Custom 135x80x33mm                                          |
 |------------------------------------------------------------------|------------------------------------------------------------------|
 | ![](Resources/case-generic-135x80x33mm-1.jpg)                    | ![](Resources/case-generic-135x80x33mm-2.jpg)                    |
@@ -30,6 +26,10 @@ STL & Blender files are provided for each 3D model.
 | Case Double-Switch 220v 50x28x40mm                               | Case Double-Switch 220v 50x28x40mm                               |
 |------------------------------------------------------------------|------------------------------------------------------------------|
 | ![](Resources/case-double-switch-220v-50x28x40mm-1.jpg)          | ![](Resources/case-double-switch-220v-50x28x40mm-2.jpg)          |
+
+| Case Generic 70x70x25mm                                          | Case Generic 70x70x25mm                                          |
+|------------------------------------------------------------------|------------------------------------------------------------------|
+| ![](Resources/case-generic-70x70x25mm-1.jpg)                     | ![](Resources/case-generic-70x70x25mm-2.jpg)                     |
 
 | Case Power Supply Unit 110x90x45mm                               | Case Power Supply Unit 110x90x45mm                               |
 |------------------------------------------------------------------|------------------------------------------------------------------|
