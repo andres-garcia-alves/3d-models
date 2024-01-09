@@ -9,11 +9,15 @@ STL & Blender files are provided for each 3D model.
 
 | Battery Holder 18650 x1 76x23x17mm                               | Battery Holder 18650 x1 76x23x17mm                               |
 |------------------------------------------------------------------|------------------------------------------------------------------|
-| ![](Resources/battery-holder-18650-76x23x17mm-1.jpg)             | ![](Resources/battery-holder-18650-76x23x17mm-2.jpg)             |
+| ![](Resources/battery-holder-x1-18650-76x23x17mm-1.jpg)          | ![](Resources/battery-holder-x1-18650-76x23x17mm-2.jpg)          |
 
-| Battery TP4056 Charger + Holder x4 18650 129x80x28mm             | Battery TP4056 Charger + Holder x4 18650 129x80x28mm             |
+| Battery Holder 18650 x4 + TP4056 Charger 129x80x28mm             | Battery Holder 18650 x4 + TP4056 Charger 129x80x28mm             |
 |------------------------------------------------------------------|------------------------------------------------------------------|
-| ![](Resources/battery-charger-holder-x4-18650-129x80x28mm-1.jpg) | ![](Resources/battery-charger-holder-x4-18650-129x80x28mm-2.jpg) |
+| ![](Resources/battery-holder-x4-18650-tp4056-129x80x28mm-1.jpg)  | ![](Resources/battery-holder-x4-18650-tp4056-129x80x28mm-2.jpg)  |
+
+| Battery Holder 18650 x6 129x80x28mm                              | Battery Holder 18650 x6 129x80x28mm                              |
+|------------------------------------------------------------------|------------------------------------------------------------------|
+| ![](Resources/battery-holder-x6-18650-129x80x28mm-1.jpg)         | ![](Resources/battery-holder-x6-18650-129x80x28mm-2.jpg)         |
 
 | Bolt Piece 99x18x12mm                                            | Bolt Piece 99x18x12mm                                            |
 |------------------------------------------------------------------|------------------------------------------------------------------|
@@ -55,12 +59,13 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 
 v1.0 (2023.05.19) - Initial release.  
 v1.1 (2023.05.21) - Adding model 'case-generic-70x70x25mm'.  
-v1.2 (2023.05.27) - Adding model 'battery-charger-holder-x4-18650-129x80x28mm'.  
+v1.2 (2023.05.27) - Adding model 'battery-holder-18650-x4-tp4056-129x80x28mm'.  
 v1.3 (2023.06.01) - Adding model 'iron-knob-46x46x13mm'.  
 v1.4 (2023.06.28) - Adding model 'case-psu-110x90x45mm'.  
-v1.5 (2023.07.14) - Adding model 'battery-holder-18650-76x23x17mm'.  
+v1.5 (2023.07.14) - Adding model 'battery-holder-18650-x1-76x23x17mm'.  
 v1.6 (2023.09.03) - Adding model 'keyboard-leg-20x26x3mm'.  
 v1.7 (2023.12.16) - Adding model 'bolt-piece-99x18x12mm'.
+v1.8 (2024.01.09) - Adding model 'battery-holder-18650-x6-129x80x28mm'.  
 
 &nbsp;
 
