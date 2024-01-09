@@ -13,7 +13,7 @@ STL & Blender files are provided for each 3D model.
 
 | Battery TP4056 Charger + Holder x4 18650 129x80x28mm             | Battery TP4056 Charger + Holder x4 18650 129x80x28mm             |
 |------------------------------------------------------------------|------------------------------------------------------------------|
-| ![](Resources/battery-charger-holder-x4-18650-129x80x28mm-1.jpg) | ![](Resources/battery-charger-holder-x4-129x80x28mm-2.jpg)       |
+| ![](Resources/battery-charger-holder-x4-18650-129x80x28mm-1.jpg) | ![](Resources/battery-charger-holder-x4-18650-129x80x28mm-2.jpg) |
 
 | Bolt Piece 99x18x12mm                                            | Bolt Piece 99x18x12mm                                            |
 |------------------------------------------------------------------|------------------------------------------------------------------|
