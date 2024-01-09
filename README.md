@@ -64,8 +64,8 @@ v1.3 (2023.06.01) - Adding model 'iron-knob-46x46x13mm'.
 v1.4 (2023.06.28) - Adding model 'case-psu-110x90x45mm'.  
 v1.5 (2023.07.14) - Adding model 'battery-holder-18650-x1-76x23x17mm'.  
 v1.6 (2023.09.03) - Adding model 'keyboard-leg-20x26x3mm'.  
-v1.7 (2023.12.16) - Adding model 'bolt-piece-99x18x12mm'.
-v1.8 (2024.01.09) - Adding model 'battery-holder-18650-x6-129x80x28mm'.  
+v1.7 (2023.12.16) - Adding model 'bolt-piece-99x18x12mm'.  
+v1.8 (2024.01.09) - Adding model 'battery-holder-18650-x6-129x80x28mm'.
 
 &nbsp;
 
