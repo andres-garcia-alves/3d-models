@@ -35,6 +35,10 @@ STL & Blender files are provided for each 3D model.
 |------------------------------------------------------------------|------------------------------------------------------------------|
 | ![](Resources/case-generic-70x70x25mm-1.jpg)                     | ![](Resources/case-generic-70x70x25mm-2.jpg)                     |
 
+| Case Generic 110x80x35mm                                         | Case Generic 1100x80x35mm                                        |
+|------------------------------------------------------------------|------------------------------------------------------------------|
+| ![](Resources/case-generic-110x80x35mm-1.jpg)                    | ![](Resources/case-generic-110x80x35mm-2.jpg)                    |
+
 | Case Power Supply Unit 110x90x45mm                               | Case Power Supply Unit 110x90x45mm                               |
 |------------------------------------------------------------------|------------------------------------------------------------------|
 | ![](Resources/case-psu-110x90x45mm-1.jpg)                        | ![](Resources/case-psu-110x90x45mm-2.jpg)                        |
@@ -65,7 +69,8 @@ v1.4 (2023.06.28) - Adding model 'case-psu-110x90x45mm'.
 v1.5 (2023.07.14) - Adding model 'battery-holder-18650-x1-76x23x17mm'.  
 v1.6 (2023.09.03) - Adding model 'keyboard-leg-20x26x3mm'.  
 v1.7 (2023.12.16) - Adding model 'bolt-piece-99x18x12mm'.  
-v1.8 (2024.01.09) - Adding model 'battery-holder-18650-x6-129x80x28mm'.
+v1.8 (2024.01.09) - Adding model 'battery-holder-18650-x6-129x80x28mm'.  
+v1.9 (2024.03.03) - Adding model 'case-generic-110x80x35mm'.
 
 &nbsp;
 
